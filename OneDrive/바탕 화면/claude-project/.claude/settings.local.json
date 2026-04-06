@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(npm install:*)",
-      "Read(//c/Users/2AP2023-030/OneDrive/바탕 화면/claude-project/**)",
-      "Bash(npx tsc:*)"
-    ]
-  }
-}
